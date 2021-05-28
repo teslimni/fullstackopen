@@ -2,8 +2,6 @@
 
 # dependencies
 /node_modules
-courseinfo/node_modules
-unicafe/node_modules
 /.pnp
 .pnp.js
 
